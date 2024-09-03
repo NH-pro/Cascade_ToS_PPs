@@ -7,7 +7,7 @@ Cascade app is a FREE app designed and built by Neil Hanson. This Privacy Policy
 Cascade was designed to be a stand alone tool app without accounts and profile creation. I **DO NOT** collect any of your persoanl info or data e.g. name, email address, phone number, payment info.
 
 ### Log Data
-If an error happens while using the Cascade app, I collect data and information about that error. This collection of error data are called Logs. Logs may include information like IP Adress, device name, operating system version, time and date, and configuration settings for the Cascade app. These error logs are extremely helpful for updating and maintaining the app.
+If an error happens while using the Cascade app, I collect data and information about that error. This collection of error data are called Logs. Logs may include information like ip address, device name, operating system version, time and date, and configuration settings for the Cascade app. These error logs are extremely helpful for updating and maintaining the app.
 
 ## **Links to Other Sites**
 The Cascade app contains links to other sites. Clicking on a link to a third party site will direct you to that site. These external sites are not operated by me, so I recommend you check out their privacy policies beforehand. I assume zero responsibility for the content, policies, and or practicies of any other sites or third-party services.

@@ -14,3 +14,6 @@ Cascade app is not intended for children under the age of 13. I do not knowingly
 
 ### 4. Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. I will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" above.
+
+### 5. Contact Us
+If you have any questions or have suggestions about this Privacy Policy, please contact me at cascade.card.app@gmail.com .
